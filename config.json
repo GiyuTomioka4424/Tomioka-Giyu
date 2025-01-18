@@ -10,11 +10,11 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
+    "BOTNAME": "義 𝗚𝗶𝘆𝘂 | 🌊 勇",
+    "PREFIX": "/",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "100079114908948",
+        "61562953390569"
     ],
     "DATABASE": {
         "sqlite": {
